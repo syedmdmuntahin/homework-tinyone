@@ -1,0 +1,35 @@
+/*Extra small devices(portait phones,less then576)*/
+@media (max-width:575.98px){
+/*header start*/
+.menu ul li a{
+	padding: 0 0px!important;
+	text-align: right;
+}
+
+}
+/*Small devices(Landscape phones,576px and up)*/
+@media (min-height:576px) and (max-width:767.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 0 0px!important;
+	text-align: right;
+}
+
+}
+/*Medium devices(tablets,768px and up)*/
+@media (min-height:768px) and (max-width:991.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 0 0px!important;
+	text-align: right;
+}
+
+}/*large devices(dekstop,992px and up)*/
+@media (min-height:992px) and (max-width:1199.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 0 0px!important;
+	text-align: right;
+}
+
+}
